@@ -1,0 +1,85 @@
+#navbar{
+
+    margin-left: 1%;
+    margin-right: 1%;
+    
+}
+
+
+#carousel{
+
+    color:white; 
+   
+}
+
+#tex{
+
+    padding-top: 2%;
+    padding-bottom: 2%;
+
+}
+
+.card-title{
+
+    font-size: 1.5em; 
+   
+}
+
+#card2{
+
+    padding-left: 15%;
+    padding-right: 15%;
+}
+
+#tarjeta{
+
+    background-color: rgb(37, 39, 39);
+    color: white;
+    width: 100%;
+    
+}
+
+#prueba{
+
+    background-color:rgb(58, 71, 77) ;
+    color: white;
+    
+}
+
+#presentacion{
+
+    padding-top: 2%;
+
+}
+
+.subrayado{
+
+    text-decoration: underline 1px black;
+    text-decoration-style: dashed;
+
+}
+
+#formulario{
+
+    padding-top: 2%;
+    padding-left: 25%;
+    padding-right: 25%;
+
+}
+
+#footer{
+
+    background-color: rgb(17, 79, 107);
+    color: white;
+    margin-top: 1%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-left: 15%;
+    padding-right: 10%;
+}
+ 
+
+   
+
+ 
+
